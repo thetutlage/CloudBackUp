@@ -1,0 +1,15 @@
+<?php $config['backuppath'] = "/backup/";
+$config['db.host'] = "localhost";
+$config['db.username'] = "root";
+$config['db.password'] = "";
+$config['db.name'] = "bobbuildingthegame";
+$config['db.port'] = "3306";
+$config['db.charset'] = "utf8";
+$config['exclude.dir'] = "backup,cgi-bin";
+$config['exclude.file'] = ".bat,*.exe";
+$config['autoarchive'] = true;
+$config['timezone'] = "Asia/Kolkata";
+$config['username'] = "cloud";
+$config['password'] = "cloud@123";
+$config['memory'] = "32";
+$config['maxbackups'] = "200";
